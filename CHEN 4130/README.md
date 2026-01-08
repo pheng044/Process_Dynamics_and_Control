@@ -1,4 +1,4 @@
-# CHEN 4130 Process Dynamics and Control
+# CHEN 4130 - Process Dynamics and Control
 ### P.V. Heng
 Collection of notes covering topics discussed in the the Fall 2025 offering of 'Process Dynamics and Control' at the University of Massachusetts, Lowell.
 
